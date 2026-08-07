@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dipalisangale007-del/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/dipalisangale007-del/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dipalisangale007-del/LeetCode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/dipalisangale007-del/LeetCode/tree/master/0043-multiply-strings) |
 ## Trie
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/dipalisangale007-del/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/dipalisangale007-del/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/dipalisangale007-del/LeetCode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/dipalisangale007-del/LeetCode/tree/master/0043-multiply-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/dipalisangale007-del/LeetCode/tree/master/0029-divide-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/dipalisangale007-del/LeetCode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
