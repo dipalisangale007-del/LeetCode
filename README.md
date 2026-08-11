@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/dipalisangale007-del/LeetCode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/dipalisangale007-del/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/dipalisangale007-del/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/dipalisangale007-del/LeetCode/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/dipalisangale007-del/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dipalisangale007-del/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/dipalisangale007-del/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/dipalisangale007-del/LeetCode/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
